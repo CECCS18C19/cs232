@@ -1,0 +1,31 @@
+Script started on Sat 01 Feb 2020 12:15:27 AM IST
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c19/cs232s4c1@lab2-Veriton-Series:~/ceccs18c19/cs232$ gedit sort.txt
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c19/cs232s4c1@lab2-Veriton-Series:~/ceccs18c19/cs232$ sort -n sort.txt
+3 
+5
+13
+85
+575
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c19/cs232s4c1@lab2-Veriton-Series:~/ceccs18c19/cs232$ sort -nk7 sort.txt
+13
+3 
+5
+575
+85
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c19/cs232s4c1@lab2-Veriton-Series:~/ceccs18c19/cs232$ e[Kgedit cut.txt
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c19/cs232s4c1@lab2-Veriton-Series:~/ceccs18c19/cs232$ cut -b -3 cut.txt
+and
+ASS
+
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c19/cs232s4c1@lab2-Veriton-Series:~/ceccs18c19/cs232$ cut -c 2,5,7 cut.txt
+nr 
+SM
+
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c19/cs232s4c1@lab2-Veriton-Series:~/ceccs18c19/cs232$ gedit grep.txt
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c19/cs232s4c1@lab2-Veriton-Series:~/ceccs18c19/cs232$ grep -c@[K "unix" grep.txt
+2
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c19/cs232s4c1@lab2-Veriton-Series:~/ceccs18c19/cs232$ grep -w @[K"unix" grep.txt
+[01;31m[Kunix[m[K is great os.[01;31m[Kunix[m[K is opensource.[01;31m[Kunix[m[K is free os.
+[01;31m[Kunix[m[K linux which one you choose.
+]0;s4c1@lab2-Veriton-Series: ~/ceccs18c19/cs232s4c1@lab2-Veriton-Series:~/ceccs18c19/cs232$ exit
+Script done on Sat 01 Feb 2020 12:20:53 AM IST

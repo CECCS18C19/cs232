@@ -1,0 +1,35 @@
+CEC CS 18 c19
+Gopika Suresh
+
+--------------------------------
+#1: Aim/task :LINUX COMMANDS FAMILARISATION
+---------------------------------
+Command/Shell script/Program name
+cd
+mkdir
+sort
+cut
+ls
+grep
+
+---------------------------------
+
+Input: (If relevant)
+---------------
+sort.txt
+cut.txt
+grep.txt
+--------------------------------
+Output: 
+
+commands executed successfully
+-------------------
+Remarks :
+
+LINUX commands familarised
+
+
+
+
+
+
